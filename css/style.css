@@ -1,0 +1,16 @@
+/* [class*='container'] {
+    background-color: lightblue;
+} */
+
+
+.box {
+    background-color: cyan;
+}
+
+footer {
+    background-color: #333;
+}
+
+#jumbotron {
+    background-color: deeppink;
+}
