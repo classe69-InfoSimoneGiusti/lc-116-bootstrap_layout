@@ -14,3 +14,14 @@ footer {
 #jumbotron {
     background-color: deeppink;
 }
+
+.ms_btn_purple {
+    background-color: purple;
+    color: #fff;
+}
+
+
+.ms_btn_purple:hover {
+    background-color: rgb(197, 0, 197);
+    color: #fff;
+}
